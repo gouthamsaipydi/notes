@@ -39,7 +39,9 @@ main {
     padding: 20px;
     text-align: center;
 }
-
+main:hover {
+    color: #0056b3; /* Change color on hover */
+}
 main h2 {
     margin-top: 0;
 }
