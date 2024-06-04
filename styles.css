@@ -21,6 +21,9 @@ header nav a {
     margin: 0 15px;
     text-decoration: none;
 }
+header a:hover {
+     color: #266fb4; /* Change to your preferred hover color */
+          }
 
 main {
     padding: 20px;
